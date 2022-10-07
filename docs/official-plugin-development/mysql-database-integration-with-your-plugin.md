@@ -138,4 +138,4 @@ SansOrm 是一个旨在取代 ORM 的库，它允许你仍然完全控制你的�
 
 IDB（Intuitive Database Wrapper）旨在简化创建 SQL 查询的模板，并与 HikariCP 集成。
 
-[跳转至官网原文 :material-link:](https://www.spigotmc.org/wiki/mysql-database-integration-with-your-plugin/){ .md-button }
+[跳转至官网原文](https://www.spigotmc.org/wiki/mysql-database-integration-with-your-plugin/)
