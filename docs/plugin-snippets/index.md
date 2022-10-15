@@ -16,3 +16,4 @@
 - [自动销售物品](auto-selling-items.md)
 - [使用配置文件](config-files.md)
 - [基本的聊天静默](basic-chat-muting.md)
+- [绕过玩家人数限制](bypassing-the-player-slot-limit.md)
