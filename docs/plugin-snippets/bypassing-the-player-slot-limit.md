@@ -70,3 +70,5 @@ public class PlayerBypass extends JavaPlugin implements Listener {
 
     }
 ```
+
+[跳转至官网原文](https://www.spigotmc.org/wiki/bypassing-the-player-slot-limit/)
