@@ -1,5 +1,7 @@
 # SpigotMC 中文文档
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf8ed83d-3813-49d0-8507-8ef64b889ab0/deploy-status)](https://app.netlify.com/sites/spigot-mc/deploys)
+
 SpigotMC，也被称为 Spigot，是流行在 Bukkit 服务器模组的一个分支。Spigot 是为了提高性能和效率，同时保持与 Bukkit 插件的兼容性。
 
 许多大型服务器都使用 Spigot，因为它们往往比普通服务器使用更多的资源。Spigot 也是无法购买硬件升级或支付服务器托管费的家庭服务器的理想选择。家庭服务器往往滞后很多，通常是由于网络滞后，以及你的电脑必须处理游戏、服务器和你的操作系统。
