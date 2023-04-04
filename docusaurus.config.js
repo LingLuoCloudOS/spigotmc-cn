@@ -40,7 +40,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/lingluo-hub/spigotmc-cn/edit/main/',
+            'https://github.com/LingLuoyunOS/spigotmc-cn/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -67,7 +67,7 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/lingluo-hub/spigotmc-cn',
+            href: 'https://github.com/LingLuoyunOS/spigotmc-cn',
             label: 'GitHub',
             position: 'right',
           },
@@ -111,7 +111,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/lingluo-hub/spigotmc-cn',
+                href: 'https://github.com/LingLuoyunOS/spigotmc-cn',
               },
             ],
           },
